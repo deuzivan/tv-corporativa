@@ -1,0 +1,185 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="TABELA", premiere
+http://live.hls.onplay.tv/loadbalance/778WHtiMWx/tracks-v2a1/mono.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="TABELA", sport tv2 
+http://cdn.whostreams.net:8080/hls/lhwiia55zgswoy.m3u8?s=eEtlvd1dhqJOMJ9WVKlAWw&e=1532202461
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="TABELA", sport tv3
+http://cdn.whostreams.net:8080/hls/7tzvy0.m3u8?s=8yoJUkgvDipuzYlfp2RWiw&e=1532203065
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="TABELA", sport3tv opção 2 
+http://cdn.whostreams.net:8080/hls/7tzvy0.m3u8?s=Ma-IEE_v1YJAMdQvweKdOg&e=1532203226 
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="TABELA", sport3 opção 3
+http://cdn.whostreams.net:8080/hls/7tzvy0.m3u8?s=QGbojH2yod4WtotkC6I8Vw&e=1532203376       
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="TABELA", fox
+http://cdn.whostreams.net:8080/hls/xfev9la6.m3u8?s=_cKeVQYCFPMYUAu_mfzwPw&e=1532203998   
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="TABELA", fox opção 2
+http://cdn.whostreams.net:8080/hls/xfev9la6.m3u8?s=_cKeVQYCFPMYUAu_mfzwPw&e=1532203998 
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="TABELA", fox2 opção1
+http://cdn.whostreams.net:8080/hls/xfev9la6.m3u8?s=P3GpMhH2jjGVWydFkZLkKA&e=1532204387  
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="games", roblox1
+https://www.youtube.com/watch?v=EBI6MMH6Lo8   
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="TABELA", sport tv23
+http://live.hls.onplay.tv/loadbalance/k17NQhEzU6/tracks-v3a1/mono.m3u8   
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="TABELA", premiere1
+http://live.hls.onplay.tv/loadbalance/o4943tHVDK/tracks-v2a1/mono.m3u8 
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="TABELA", se escreve no canal yasmiminecraft
+https://www.youtube.com/watch?v=EBI6MMH6Lo8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="tv aberta", band
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="tv aberta", rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/630/PNG/512/volleyball-black-ball_icon-icons.com_57897.png
+" group-title="tv aberta", sbt
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
+
+tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere Clubes
+
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 2
+
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 3
+
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 4
+
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 5
+
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 6
+
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 7
+
+#EXTINF:-1 tvg-id="Premiere 8" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 8
+
+#EXTINF:-1 tvg-id="Premiere 9" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 9
+
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",Fish TV
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN
+
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN+
+
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo
+http://apk.goo.bo:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Esporte Interativo BR" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI Maxx
+
+#EXTINF:-1 tvg-id="Esporte Interativo 2" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI Maxx 2
+
+#EXTINF:-1 tvg-id="Woohoo" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
+
+#EXTINF:-1 tvg-id="Off" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",Off
+
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports
+
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV
+http://apk.goo.bo:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2
+http://apk.goo.bo:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes",SporTV 3
+
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
+
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/OY7XoDv.png" group-title="Esportes",NBA
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/owtTurC.png" group-title="Esportes",Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/HozFynS.png" group-title="Esportes",All Sports BR
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+logo="http://i.imgur.com/WCFVJCx.png" group-title="Infantil",Zoomoo
+
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="http://i.imgur.com/oOdSv91.png" group-title="Infantil",Gloobinho
+
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-logo="http://i.imgur.com/wlQ5V8Z.png" group-title="Infantil",Nat Geo Kids
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-logo="http://i.imgur.com/N1yI2xN.png" group-title="Infantil",Baby TV
+
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá-Tim-Bum
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
+
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
+
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="Infantil",Discovery Kids
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel
+
